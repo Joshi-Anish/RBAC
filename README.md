@@ -1,4 +1,4 @@
-# Linux RBAC Implementation
+# RBAC implementation and permission management practice for SOC home lab security testing.
 
 This repository demonstrates a **Role-Based Access Control (RBAC)** implementation in a Linux environment as part of a system administration & cybersecurity exercise. The RBAC model simulates real company roles and enforces access based on least privilege.
 
